@@ -14,14 +14,14 @@ Please go through all the instructions carefully before beginning to code.
 
 Open below link in your browser (**Do not use incognito** mode as it does not seem to work). This will setup your React coding environment.
 
-https://stackblitz.com/fork/react
+[https://stackblitz.com/fork/react](https://stackblitz.com/fork/react)
 
 ## Implementation
 
 There are 3 features to be implemented. Feel free to switch between features if you get stuck anywhere.
 
 #### 1) Render user table
-Make an api call to https://jsonplaceholder.typicode.com/users which will return a list of users. Display **Name**, **Email**, and **Phone** details of all users in a table. The columns should be configured in a manner where it is possible to add or remove columns without having to update the html code.
+Make an api call to [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) which will return a list of users. Display **Name**, **Email**, and **Phone** details of all users in a table. The columns should be configured in a manner where it is possible to add or remove columns without having to update the html code.
 
 #### 2) Add a user
 Create 3 text inputs respectively for **Name**, **Email**, and **Phone**, and an **Add** button. On clicking the Add button, it should insert a new row with the user details.
@@ -31,7 +31,5 @@ Render a **Delete** button in every row. On clicking the Delete button, it shoul
 
 
 ## Example
-
-Below example is only for demonstration purposes, you do not have to follow the exact styling.
 
 ![react-code-interview-sample-gif](assets/react-code-interview-sample-gif.gif)
