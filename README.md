@@ -12,7 +12,7 @@ Please go through all the instructions carefully before beginning to write code.
 
 ## Environment setup
 
-Open below link in your browser (**Do not use incognito** mode as it does not seem to work). This will setup your React coding environment.
+Right click and open below link in new tab (**Do not use incognito** mode as it does not seem to work). This will setup your React coding environment.
 
 [https://stackblitz.com/fork/react](https://stackblitz.com/fork/react)
 
@@ -21,7 +21,7 @@ Open below link in your browser (**Do not use incognito** mode as it does not se
 Below are the features to be implemented. Feel free to switch between features if you get stuck.
 
 #### 1) Render user table
-Make an api call to [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) which will return a list of users. Display **Name**, **Email**, and **Phone** details of all users in a table. The columns should be configured in a manner where it is possible to add or remove columns without having to update the html code.
+Make an api call to `https://jsonplaceholder.typicode.com/users` which will return a list of users. Display **Name**, **Email**, and **Phone** details of all users in a table. The columns should be configured in a manner where it is possible to add or remove columns without having to update the html code.
 
 #### 2) Add a user
 Create 3 text inputs respectively for **Name**, **Email**, and **Phone**, and an **Add** button. Clicking the Add button should insert a new row with the user details and also all input fields should be reset. The Add button should be disabled by default and it should only be enabled when the below criteria are met:
