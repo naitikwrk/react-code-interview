@@ -1,6 +1,6 @@
 # React Code Interview
 
-Please go through all the instructions carefully before beginning to code.
+Please go through all the instructions carefully before beginning to write code.
 
 ## Some pointers
 
