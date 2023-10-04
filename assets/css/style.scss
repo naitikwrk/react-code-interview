@@ -1,8 +1,6 @@
----
----
-
 @import "{{ site.theme }}";
 
 header {
-  display: none;
+  // display: none;
+  background-color: yellow;
 }
