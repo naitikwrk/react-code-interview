@@ -24,13 +24,17 @@ Below are the features to be implemented. Feel free to switch between features i
 Make an api call to [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) which will return a list of users. Display **Name**, **Email**, and **Phone** details of all users in a table. The columns should be configured in a manner where it is possible to add or remove columns without having to update the html code.
 
 #### 2) Add a user
-Create 3 text inputs respectively for **Name**, **Email**, and **Phone**, and an **Add** button. On clicking the Add button, it should insert a new row with the user details.
+Create 3 text inputs respectively for **Name**, **Email**, and **Phone**, and an **Add** button. Clicking the Add button should insert a new row with the user details and also all input fields should be reset. The Add button should be disabled by default and it should only be enabled when the below criteria are met:
+
+- Name: Only alphabets (uppercase or lowercase) and space allowed.
+- Email: Only email ids ending with @gmail.com allowed.
+- Phone: Only 10 digit numeric value allowed.
 
 #### 3) Delete a user
 Render a **Delete** button in every row. On clicking the Delete button, it should remove that user row from the table.
 
 #### 4) Display last modified timestamp
-Display a timestamp below the table which indicates when the table was last modified. Default value should be set to "Never".
+Display a timestamp below the table which indicates when the table was last modified i.e. when a user is added or deleted. Default value should be set to "Never".
 
 ## Example
 
