@@ -4,7 +4,7 @@ Please go through all the instructions carefully before beginning to code.
 
 ## Some pointers
 
-1) You will have 45 minutes to complete the code exercise. There are no marks/points system for this code exercise. If you get stuck with any feature, move on to another one. Do not worry if you are unable to implement all the features. Judgement will be made solely on the basis of how well you write your code and your understanding of React and Javascript concepts.
+1) You will have 45 minutes to complete the code exercise. There are no marks/points system for this code exercise. Do not worry if you are unable to implement all the features, if you get stuck with any feature, move on to another one. Your code evaluation will have more weightage on how well you write your code and your understanding of React and Javascript concepts.
 
 2) You are free to use google, stackoverflow, etc. to lookup for ideas/solutions if you get stuck anywhere.
 
