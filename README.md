@@ -38,4 +38,4 @@ Display a timestamp below the table which indicates when the table was last modi
 
 ## Example
 
-![react-code-interview-sample-gif](assets/react-code-interview-sample-gif.gif)
+![react-code-interview-sample-gif](assets/react-code-interview-sample.gif)
