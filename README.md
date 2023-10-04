@@ -18,7 +18,7 @@ Right click and open below link in new tab (**Do not use incognito** mode as it 
 
 ## Implementation
 
-Below are the features to be implemented. Feel free to switch between features if you get stuck.
+Below are the features to be implemented. Feel free to switch between features in case you get stuck anywhere.
 
 #### 1) Render user table
 Make an api call to `https://jsonplaceholder.typicode.com/users` which will return a list of users. Display **Name**, **Email**, and **Phone** details of all users in a table. The columns should be configured in a manner where it is possible to add or remove columns without having to update the html code.
