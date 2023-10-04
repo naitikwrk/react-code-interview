@@ -4,11 +4,11 @@ Please go through all the instructions carefully before beginning to write code.
 
 ## Some pointers
 
-1) You will have 45 minutes to complete the code exercise. There are no marks/points system for this code exercise. Do not worry if you are unable to implement all the features, if you get stuck with any feature, move on to another one. Your code evaluation will have more weightage on how well you write your code and your understanding of React and Javascript concepts.
+1) You will be given 45 minutes to complete the code exercise. There are no marks/points system for this code exercise. Do not worry if you are unable to implement all the features. If you get stuck at any point, move on to another feature. Your code evaluation will have more weightage on how well you write your code and your understanding of React and Javascript concepts.
 
-2) You are free to use google, stackoverflow, etc. to lookup for ideas/solutions if you get stuck anywhere.
+2) You are free to use google, stackoverflow, etc. anytime to look up ideas/solutions.
 
-3) You are free to use any 3rd party package/library for the implementation.
+3) You are free to use any 3rd party npm package/library for the implementation.
 
 ## Environment setup
 
@@ -18,7 +18,7 @@ Open below link in your browser (**Do not use incognito** mode as it does not se
 
 ## Implementation
 
-There are 3 features to be implemented. Feel free to switch between features if you get stuck anywhere.
+Below are the features to be implemented. Feel free to switch between features if you get stuck.
 
 #### 1) Render user table
 Make an api call to [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) which will return a list of users. Display **Name**, **Email**, and **Phone** details of all users in a table. The columns should be configured in a manner where it is possible to add or remove columns without having to update the html code.
@@ -29,6 +29,8 @@ Create 3 text inputs respectively for **Name**, **Email**, and **Phone**, and an
 #### 3) Delete a user
 Render a **Delete** button in every row. On clicking the Delete button, it should remove that user row from the table.
 
+#### 4) Display last modified timestamp
+Display a timestamp below the table which indicates when the table was last modified. Default value should be set to "Never".
 
 ## Example
 
