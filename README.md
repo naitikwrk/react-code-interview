@@ -34,4 +34,4 @@ Render a **Delete** button in every row. On clicking the Delete button, it shoul
 
 Below example is only for demonstration purposes, you do not have to follow the exact styling.
 
-![react-code-interview-sample-gif](https://github.com/ntkmbi/react-code-interview/assets/146921619/ada98162-1a0c-4ebd-98bb-8a666adcbf14)
+![react-code-interview-sample-gif](https://github.com/ntkmbi/react-code-interview/assets/react-code-interview-sample-gif.gif)
